@@ -23,7 +23,6 @@ nav {
 }
 a.logo div {
   width: 100px;
-  max-width: 150px;
   display: flex;
   align-items: center;
 }
